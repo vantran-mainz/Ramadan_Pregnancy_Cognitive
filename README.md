@@ -43,9 +43,6 @@ the analyses cannot be executed using the repository alone. The repository
 documents the complete analytical workflow but does not provide access to
 the underlying data.
 
-## Citation
-Please cite the archived Zenodo release of this repository.
-
 
 ## Copyright
 Copyright © 2026 Van Tran. All rights reserved.
