@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the metadata below."
+title: "Replication code for Ramadan during pregnancy and cognitive outcomes across generations in a natural experiment using register data"
+type: software
+authors:
+  - family-names: "Tran"
+    given-names: "Van"
+    affiliation: "Johannes Gutenberg University Mainz"
+    orcid: "https://orcid.org/0009-0006-6797-0070"
+repository-code: "https://github.com/vantran-mainz/Ramadan_Pregnancy_Cognitive"
+version: "1.0.0"
+date-released: 2026-08-19
